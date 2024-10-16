@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Development , Iot , innovation in UAV and drones 
 - 🌱 I’m currently a Btech 1st year student
 - 💞️ I’m looking to collaborate on Iot devices , Techno
-- 📫 mail - anandrawat138a@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
